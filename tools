@@ -1,1 +1,16 @@
+# OSINT Tool List & Descriptions  
+A list of tools used during the John Doe investigation:  
 
+### 🛠 Web Search & Data Gathering  
+✔ **Google Dorking** – Advanced search operators for finding hidden public data.  
+✔ **Maltego** – Mapping digital connections between accounts, emails, and websites.  
+✔ **Sherlock** – Finds usernames across 300+ social media sites.  
+
+### 🔍 Data Breach & Cybersecurity  
+✔ **Have I Been Pwned** – Checks if an email was in a past data breach.  
+✔ **Dehashed** – Paid tool for leaked passwords and usernames.  
+✔ **EmailRep.io** – Investigates reputation & past security risks of an email.  
+
+### 📂 Metadata & Image Analysis  
+✔ **ExifTool** – Extracts GPS, camera, and timestamp metadata from images.  
+✔ **FOCA** – Analyzes document metadata (PDF, Word, Excel) for hidden information.  
