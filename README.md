@@ -8,14 +8,11 @@ This project demonstrates how publicly available information can be collected an
 - **Social Media Analysis** – Public profile tracking & metadata extraction.
 - **Data Breach Investigation** – Checking for leaked credentials (Have I Been Pwned).
 - **WHOIS Lookup** – Domain & website registration data analysis.
-- **Metadata Analysis** – Extracting geolocation & EXIF data from images.
 
 ## Tools & Techniques Used  
 - **Have I Been Pwned** – Check for compromised credentials.
 - **Google Dorking** – Find publicly available information using search operators.
-- **Sherlock** – Username searches across social media.
 - **WHOIS Lookup** – Identify domain registration details.
-- **ExifTool** – Extract metadata from images.
 
 ## Project Files  
 📁 **[Reports](./reports/)** – Full OSINT investigation reports.  
