@@ -4,25 +4,24 @@
 **Investigator:** Mya A. Torres  
 
 ## 1. Executive Summary  
-This report analyzes my own old email address and **online presence, data exposure, and security risks**. OSINT tools were used to assess **social media profiles, data breaches, WHOIS records, and metadata**.  
+This report analyzes my **own old email address** and **online presence, data exposure, and security risks**. OSINT tools were used to assess **social media profiles, data breaches, WHOIS records, and metadata**.  
 
 ### **Key Findings**  
 **9 data breaches detected** (Town of Salem, Mathaway, Wattpad, Animal Jam, Twitter, Gamesprite, NazAPI, SwordFantasy, Z-lib)  
-**Public social media profiles on Twitter, Instagram, and Reddit**  
+**Public social media profiles on Twitter**
 **Website registered with exposed email & WHOIS details**  
 **Geotagged images found on Instagram with location metadata**  
 
 ## 2. Investigation Findings  
 
 ### **Social Media Exposure**  
-**Platforms found:** Twitter (@JohnDoe123), Instagram (@DoeAdventures), Reddit (u/John_D)  
+**Platforms found:** Twitter (@)
 **Privacy risk:** Public posts reveal **job details, location, and connections**.  
 
 ### **Data Breach Analysis**  
-**Email:** johndoe@email.com  
+**Email:** lilyanavonel@gmail.com  
 **Breached Sites:**  
-- LinkedIn (2016) – **Password exposed** (SHA1 hash)  
-- Adobe (2013) – Email + password in plaintext  
+- 
 
 ### **WHOIS & Website Exposure**  
 **Domain:** johndoeportfolio.com  
