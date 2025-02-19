@@ -8,20 +8,41 @@ This report analyzes my **own old email address** and **online presence, data ex
 
 ### **Key Findings**  
 **9 data breaches detected** (Town of Salem, Mathaway, Wattpad, Animal Jam, Twitter, Gamesprite, NazAPI, SwordFantasy, Z-lib)  
-**Public social media profiles on Twitter**
+**No active social media accounts** were found linked to this email
 **Website registered with exposed email & WHOIS details**  
-**Geotagged images found on Instagram with location metadata**  
+**
 
 ## 2. Investigation Findings  
 
-### **Social Media Exposure**  
-**Platforms found:** Twitter (@)
-**Privacy risk:** Public posts reveal **job details, location, and connections**.  
+## 🔍 Data Breach Investigation  
+**Email Address:** example@email.com  
+**Data Breaches Found:** Yes (LinkedIn 2016, Adobe 2013, Dropbox 2017)  
+✔ **Leaked passwords?** Yes (LinkedIn breach)  
+✔ **Risk:** High - Passwords exposed, potential reuse risk  
+✔ **Recommendation:** Change passwords, enable MFA  
 
 ### **Data Breach Analysis**  
 **Email:** lilyanavonel@gmail.com  
 **Breached Sites:**  
 - 
+
+## 🔎 Dark Web Exposure  
+**Dark Web Mentions Found?** Yes (2 results on pastebin-like sites)  
+✔ **Leaked documents:** No  
+✔ **Exposed credentials:** Possible (Hash detected)  
+✔ **Risk Level:** Medium  
+✔ **Recommendation:** Monitor email for phishing attempts, change passwords  
+
+## 📧 Email Reputation Analysis  
+**Email Address:** example@email.com  
+✔ **Reputation:** Neutral  
+✔ **Spam Score:** Low  
+✔ **Linked to suspicious activity?** No  
+✔ **Recommendation:** Safe to use, but monitor for phishing  
+
+
+
+
 
 ### **WHOIS & Website Exposure**  
 **Domain:** johndoeportfolio.com  
