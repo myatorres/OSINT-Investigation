@@ -1,4 +1,4 @@
-# OSINT Email Investigation Report
+# Summarized Key Findings
 **Email Investigated:** `lilyanavonel@gmail.com`  
 **Overall Risk Level:**  **High** (due to multiple breaches & dark web exposure)  
 
