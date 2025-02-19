@@ -59,6 +59,6 @@ This report analyzes my **own old email address** and **online presence, data ex
 
 
 ## 📂 4. Screenshots & Proof  
-📌 **[Have I Been Pwned Results](../screenshots/haveibeenpwned-results.png)**  
+📌 **[Have I Been Pwned Results](screenshots/haveibeenpwned.png)**  
 📌 **[WHOIS Lookup](../screenshots/whois-lookup-example.png)**  
 📌 **[Metadata Analysis](../screenshots/metadata-analysis.png)**  
