@@ -60,7 +60,11 @@ This OSINT investigation was conducted on the email lilyanavonel@gmail.com using
 
 ## 📂 4. Screenshots & Proof  
 **(Data Breaches) [Have I Been Pwned Results](../screenshots/haveibeenpwned.png)**  
+
 **(Domain Ownership) [WHOIS Lookup](../screenshots/whois-results.png)**  
-**(Dark Web Exposure) [IntelligenceX](../screenshots/intelx-results.png)**  
+
+**(Dark Web Exposure) [IntelligenceX](../screenshots/intelx-results.png)** 
+
 **(Email Reputation) [Mailscrap](../screenshots/emailrep-results.png)**
+
 **(Public Mentions) [Google Dorking](../screenshots/google-dorking-results.pdf)**
