@@ -34,31 +34,31 @@ This OSINT investigation was conducted on the email lilyanavonel@gmail.com using
 **Risk Level:** High  
 **Recommendation:** Monitor email for phishing attempts, change passwords  
 
-## 📧 Email Reputation Analysis  
+##  Email Reputation Analysis  
 **Email Address:** lilyanavonel@gmail.com 
-✔ **Reputation:** Neutral  
-✔ **Spam Score:** Low  
-✔ **Linked to suspicious activity?** No  
-✔ **Recommendation:** Safe to use, but monitor for phishing
+**Reputation:** Neutral  
+**Spam Score:** Low  
+**Linked to suspicious activity?** No  
+**Recommendation:** Safe to use, but monitor for phishing
 
-## 🌎 Public Mentions (Google Dorking)  
-✔ **Mentions Found?** No   
-✔ **Sources:** None 
-✔ **Risk Level:** Low  
-✔ **Recommendation:** No sensitive data exposed, but monitor public footprint  
+## Public Mentions (Google Dorking)  
+**Mentions Found?** No   
+**Sources:** None 
+**Risk Level:** Low  
+**Recommendation:** No sensitive data exposed, but monitor public footprint  
 
-## 🌐 Domain Ownership (WHOIS Lookup)  
-✔ **Domains Registered?** No  
-✔ **Risk Level:** None  
-✔ **Recommendation:** No action needed  
+## Domain Ownership (WHOIS Lookup)  
+**Domains Registered?** No  
+**Risk Level:** None  
+**Recommendation:** No action needed  
 
-## 🌐 Domain Ownership (WHOIS Lookup)  
-✔ **Domains Registered?** No  
-✔ **Risk Level:** None  
-✔ **Recommendation:** No action needed  
+## Domain Ownership (WHOIS Lookup)  
+**Domains Registered?** No  
+**Risk Level:** None  
+**Recommendation:** No action needed  
 
 
 ## 📂 4. Screenshots & Proof  
-📌 **[Have I Been Pwned Results](../screenshots/haveibeenpwned.png)**  
-📌 **[WHOIS Lookup](../screenshots/whois-lookup-example.png)**  
-📌 **[Metadata Analysis](../screenshots/metadata-analysis.png)**  
+**(Data Breaches) [Have I Been Pwned Results](../screenshots/haveibeenpwned.png)**  
+**(Domain Ownership) [WHOIS Lookup](../screenshots/whois-lookup-example.png)**  
+**(Dark Web Exposure) [IntelligenceX](../screenshots/intelx-results.png)**  
