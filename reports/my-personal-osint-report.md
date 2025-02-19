@@ -1,10 +1,10 @@
-# OSINT Digital Footprint Report
+### OSINT Digital Footprint Report
 **Subject:** Mya Torres
 **Date:** [02/18/2025]  
 **Investigator:** Mya A. Torres  
 
 ## 1. Executive Summary  
-This report analyzes my **own old email address** and **online presence, data exposure, and security risks**. OSINT tools were used to assess **social media profiles, data breaches, WHOIS records, and metadata**.  
+This OSINT investigation was conducted on the email lilyanavonel@gmail.com using various open-source intelligence tools. The email was found in 8 major data breaches, with leaked passwords increasing the risk of credential stuffing attacks. Additionally, 41 mentions on dark web sources indicate possible exposure of sensitive data. While the email has a neutral reputation and is not linked to fraud or spam, the presence of leaked credentials presents a high-security risk. There were no social media accounts, public mentions, or domains registered with this email. Immediate password updates and enabling Multi-Factor Authentication (MFA) are highly recommended to mitigate risks. 
 
 ## 2. Investigation Findings  
 
