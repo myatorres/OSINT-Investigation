@@ -63,4 +63,4 @@ This OSINT investigation was conducted on the email lilyanavonel@gmail.com using
 **(Domain Ownership) [WHOIS Lookup](../screenshots/whois-results.png)**  
 **(Dark Web Exposure) [IntelligenceX](../screenshots/intelx-results.png)**  
 **(Email Reputation) [Mailscrap](../screenshots/emailrep-results.png)**
-**(Public Mentions) [Google Dorking](../screenshots/Google-Dorking-Results.pdf)**
+**(Public Mentions) [Google Dorking](../screenshots/google-dorking-results.pdf)**
