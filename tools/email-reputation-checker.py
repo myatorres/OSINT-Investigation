@@ -17,3 +17,6 @@ if response.status_code == 200:
     print(f"✔ Risk Level: {'High' if data['suspicious'] else 'Low'}")
 else:
     print("❌ Error: Unable to fetch email reputation data.")
+
+# Run the Script
+python3 tools/email-reputation-checker.py
