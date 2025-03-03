@@ -1,4 +1,4 @@
-# 🛠 OSINT Tool List  
+# OSINT Tool List  
 This document lists the **open-source intelligence (OSINT) tools** used in the investigation of `lilyanavonel@gmail.com`.  
 
 ---
@@ -36,7 +36,7 @@ This document lists the **open-source intelligence (OSINT) tools** used in the i
 
 ---
 
-## **📂 6️⃣ OSINT Automation Scripts**  
+## **OSINT Automation Scripts**  
 | Script | Description | File Location |
 |--------|------------|--------------|
 | **Email Reputation Checker** | Uses EmailRep API to analyze an email | `tools/email-reputation-checker.py` |
