@@ -52,10 +52,6 @@ This OSINT investigation was conducted on the email lilyanavonel@gmail.com using
 **Risk Level:** None  
 **Recommendation:** No action needed  
 
-## Domain Ownership (WHOIS Lookup)  
-**Domains Registered?** No  
-**Risk Level:** None  
-**Recommendation:** No action needed  
 
 
 ## 📂 4. Screenshots & Proof  
