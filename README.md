@@ -21,7 +21,7 @@ This project demonstrates how publicly available information can be collected an
 
 
 ## Ethical Considerations  
-⚠️ This project follows legal & ethical OSINT guidelines. Only **publicly available** data is analyzed. No unauthorized access or intrusive actions were taken.
+This project follows legal & ethical OSINT guidelines. Only **publicly available** data is analyzed. No unauthorized access or intrusive actions were taken.
 
 ## Contact  
 If you have any questions, feel free to reach out:  
