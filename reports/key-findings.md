@@ -41,7 +41,7 @@
 
 ---
 
-## ⚠️ Security Recommendations
+## Security Recommendations
 - **Change all leaked passwords immediately** & use **unique passwords for each site.**  
 - **Enable Multi-Factor Authentication (MFA)** for extra security.  
 - **Monitor email for phishing attempts.**  
